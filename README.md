@@ -15,7 +15,7 @@
 <h3 id="spotify-playing-">Spotify Playing 🎧</h3>
 <p>
   <a href="https://open.spotify.com/user/probl5c?si=b779d19c6619445d">
-   <img src="https://spotify-now-playing-sauravchamoli17.vercel.app/api/spotify-playing" alt="Can Spotify Playing" width="350" />
+   <img src="https://spotify.aidenwallis.co.uk/u/61fa50d2733d8f6e48fb54c0" alt="Can Spotify Playing" width="350" />
   </a>
 </p>
 
