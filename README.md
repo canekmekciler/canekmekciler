@@ -88,3 +88,6 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-pw&" alt="adam-pw" /></p>
+
+<p align="left"> <a href="https://canekmekciler.gatsbyjs.io/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
