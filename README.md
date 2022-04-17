@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
-<h3 align="center">Working at Didilabs🌟.</h3>
+<h3 align="center">I am a Front End Developer and working at Didilabs🌟.</h3>
 
 <br>
 
